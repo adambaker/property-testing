@@ -1,0 +1,25 @@
+{
+  "name": "property-testing",
+  "version": "1.0.0",
+  "description": "code for a loop school video",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adambaker/property-testing.git"
+  },
+  "author": "adam c baker",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/adambaker/property-testing/issues"
+  },
+  "homepage": "https://github.com/adambaker/property-testing",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^2.3.0",
+    "jsverify": "^0.6.0-beta.1",
+    "mocha": "^2.2.4",
+    "moment": "^2.10.2"
+  }
+}
